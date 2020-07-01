@@ -82,7 +82,7 @@ export default {
 }
 </script>
 
-<style lang="less">
+<style lang="less" scoped>
 .login {
   .tips {
     font-size: 14px;

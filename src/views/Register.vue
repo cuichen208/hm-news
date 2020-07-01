@@ -92,7 +92,7 @@ export default {
 }
 </script>
 
-<style lang="less">
+<style lang="less" scoped>
 .register {
   .tips {
     font-size: 14px;
